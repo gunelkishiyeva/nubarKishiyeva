@@ -145,6 +145,7 @@ h1, h2, h3, h4, h5, h6 {
   .pagehead {
     font-size: 2rem;
   }
+
 }
 @media (max-width: 575px) {
   .content {
@@ -250,6 +251,7 @@ header .navbar li:last-child {
   z-index: 9999;
 }
 
+
 @media (min-width: 1200px) and (max-width: 1440px) {
   header {
     padding: 1rem 0 1rem 0;
@@ -264,7 +266,7 @@ header .navbar li:last-child {
   .mobile-nav-toggle.bi-x {
     position: absolute;
     top: 15px;
-    right: 15px;
+    right: 0px;
     z-index: 999;
   }
   .navbar-mobile {
@@ -298,12 +300,6 @@ header .navbar li:last-child {
   .navbar-mobile ul li a {
     font-size: 0.875rem;
     padding-bottom: 0.3rem;
-  }
-  .navbar {
-    padding: 0 !important;
-  }
-  .navbar ul {
-    display: none;
   }
 }
 @media (max-width: 575px) {

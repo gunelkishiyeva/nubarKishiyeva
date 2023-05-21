@@ -1,13 +1,12 @@
-
 @import './main.scss';
 @import './responsive';
 
 .logo {
     img {
         width: 140px;
-        margin:0;
+        margin: 0;
 
-   }
+    }
 }
 
 header {
@@ -46,7 +45,7 @@ header {
 
     .navbar {
         box-shadow: none;
-        
+
         ul {
             list-style: none;
             display: flex;
@@ -56,10 +55,10 @@ header {
             border: none;
             box-shadow: none !important;
         }
-    
+
         li {
             margin: 1rem;
-    
+
             a {
                 display: flex;
                 align-items: center;
@@ -91,9 +90,9 @@ header {
 
 .mobile-nav-toggle {
     position: absolute;
-    top: 15px;
+    top: 50px;
     right: 15px;
-    font-size: 28px;
+    font-size: 50px;
     cursor: pointer;
     display: none;
     line-height: 0;
@@ -116,7 +115,7 @@ header {
     .mobile-nav-toggle {
         color: #C85946;
         display: block;
-        top: 15px;
+        top: 60px;
 
         &.bi-x {
             position: absolute;
@@ -140,7 +139,7 @@ header {
 
         ul {
             width: 95%;
-            
+
             display: block !important;
             position: absolute;
             top: 55px;
@@ -162,20 +161,25 @@ header {
             }
         }
     }
-
-    .navbar {
-        padding: 0 !important;
-
-       
-        header .navbar ul {
-          display: none;
-        }
-    }
 }
 
 @media (max-width: 575px) {
     .navbar-mobile ul {
         width: 90%;
     }
-    
+
+
+}
+@media (max-width: 767px) {
+   
+.logo img{
+    width: 170px;
+    height: 100px;
+}
+    header .navbar ul {
+        display: none;
+    }
+    header{
+        padding: 12px;
+    }
 }
