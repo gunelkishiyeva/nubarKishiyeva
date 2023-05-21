@@ -54,7 +54,7 @@ class Home extends Component {
                     </Col>
                     <Col className='order-1 order-sm-2'>
                         <div className="imgwrp">
-                            <img src={nubarpic} className="img-fluid"/>
+                            <img src={nubarpic} className="img-fluid" alt="nb"/>
                         </div>
                     </Col>
                 </Row>

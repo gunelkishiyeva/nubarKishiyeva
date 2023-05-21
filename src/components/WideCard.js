@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 import  { 
     Card,
@@ -20,7 +20,7 @@ const WideCard = (props) => {
                     </Col>
                     <Col className='order-1 order-lg-2'>
                         <div className='imgwrp'>
-                            <img src={props.image} className='img-fluid' />
+                            <img src={props.image} className='img-fluid' alt='as' />
                         </div>
                     </Col>
                 </Row>

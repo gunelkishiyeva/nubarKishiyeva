@@ -12,7 +12,7 @@ class About extends Component {
                 </p>
                 <p>
                     I'm a passionate OOP principles, Java Lecturer working at  
-                    <strong><a target='_blank' href='https://www.tobeprecise.com/'> Azerbaijan Oil and Industry University</a></strong>.
+                    <strong><a target='_blank' rel="noopener noreferrer" href='http://asoiu.edu.az/'> Azerbaijan Oil and Industry University</a></strong>.
                     I have extensive experience working with various front-end technologies and frameworks. 
                 </p>
                 <p>
