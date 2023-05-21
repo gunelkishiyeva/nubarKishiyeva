@@ -8,11 +8,11 @@ class About extends Component {
             <div className="container">
                 <h1 className='pagehead'>About me</h1>
                 <p>
-                    Hey, I'm Madhura!
+                    Hey, I'm Nubar!
                 </p>
                 <p>
                     I'm a passionate UI/UX, Frontend Developer working at  
-                    <strong><a target='_blank' href='https://www.tobeprecise.com/'> Precise Communications Design LLC</a></strong>.
+                    <strong><a target='_blank' href='https://www.tobeprecise.com/'> Azerbaijan Oil and Industry University</a></strong>.
                     I have extensive experience working with various front-end technologies and frameworks. 
                 </p>
                 <p>
