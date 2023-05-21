@@ -13,10 +13,10 @@ class Contact extends Component {
 
                 <div className="sendMail">
                     <a href="mailto: deshpandem0@gmail.com">
-                        <i className='bx bx-envelope' ></i> deshpandem10@gmail.com
+                        <i className='bx bx-envelope' ></i> nubar.kishiyeva@gmail.com
                     </a>
                     <div>
-                        <i className='bx bx-map'></i> Dubai, United Arab Emirates
+                        <i className='bx bx-map'></i> Baku, Azerbaijan
                     </div>
                 </div>
                 <Social/>
