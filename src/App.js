@@ -12,7 +12,7 @@ import About from './contents/About';
 import Experience from './contents/Experience';
 import Contact from './contents/Contact';
 
-import logo from './assets/resources/logo_transprntbk.png';
+import logo from './assets/resources/nubar-kishiyeva-logo.png';
 
 import './assets/scss/navbar.scss';
 
@@ -88,14 +88,14 @@ class App extends Component {
     }
 
     render() {
+        
       return (
         <HashRouter>
             <div>
                 <header>
                     <Container>
                         <div href="" className="logo my-auto">
-                            {/* <img src={logo} alt="logo"/> */}
-                            <h2>MD</h2>
+                         <img src={logo} alt="logo" /> 
                         </div>
                         <nav id="navbar" className="navbar">
                             <ul>

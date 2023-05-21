@@ -9,7 +9,7 @@ import {
 import TypewriterEffect from "react-typewriter-effect";
 import AOS from 'aos';
 
-import userpic from '../assets/resources/user.png';
+import nubarpic from '../assets/resources/nubarpic.jpg';
 
 import Social from '../components/Social';
 
@@ -32,7 +32,7 @@ class Home extends Component {
                                 }
                                 startDelay={100}
                                 cursorColor="black"
-                                text="Hi there, I'm Madhura"
+                                text="Hi there, I'm Nubar"
                                 typeSpeed={50}
                                 hideCursorAfterText={true}
                             />
@@ -45,7 +45,8 @@ class Home extends Component {
                                 }
                                 startDelay={1600}
                                 cursorColor="black"
-                                text="I'm a UI/UX Developer at Precise Communications Design LLC."
+                                text="I'm a Nubar Kishiyeva. 
+                                 I have 4 years experience at OOP JAVA SE Lecturer in Azerbaijan State Oil and Industry University. Take deep look to my portfolio."
                                 typeSpeed={40}
                                 hideCursorAfterText={true}
                             />
@@ -53,7 +54,7 @@ class Home extends Component {
                     </Col>
                     <Col className='order-1 order-sm-2'>
                         <div className="imgwrp">
-                            <img src={userpic} className="img-fluid"/>
+                            <img src={nubarpic} className="img-fluid"/>
                         </div>
                     </Col>
                 </Row>

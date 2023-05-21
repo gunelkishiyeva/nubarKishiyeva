@@ -32,8 +32,8 @@ class About extends Component {
                 </div>
 
                 <p>
-                    In my leisure time I like listening to Indian Classical music and play Harmonium (a musical instrument). 
-                    I enjoy watching feel-good and suspense movies along with K-Drama on Netflix {String.fromCodePoint('0x1f60A')}.
+                    In my leisure time I like listening to Classical music and play Harmonium (a musical instrument). 
+                    I enjoy searching and learning new technologoes. {String.fromCodePoint('0x1f60A')}.
                 </p>
             </div>
         );
