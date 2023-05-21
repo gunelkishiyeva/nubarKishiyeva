@@ -16,21 +16,17 @@ class Experience extends Component {
                     <WideCard 
                         image={asoiu_logo} 
                         text={[
-                            `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce suscipit luctus posuere. 
-                            Nulla nec turpis velit. Nunc eu scelerisque ante.`, <br/>, 
-                            `Donec ut tortor nec elit pulvinar suscipit. 
-                            Donec tincidunt nunc lacus, a pretium leo pellentesque vitae. Pellentesque habitant morbi 
-                            tristique senectus et netus et malesuada fames ac turpi`
+                            `As an experienced lecturer at ASOIU University, I have a strong focus on Object-Oriented Programming (OOP) with expertise in Java SE and Databases. `, <br/>, 
+                            ` With a wealth of knowledge and practical experience, I have successfully delivered comprehensive lectures on the fundamentals of OOP, 
+                            covering topics using the Java programming language.
+                             Additionally, I have guided students in understanding the of MYSQL databases, teaching them essential concepts like database connectivity, SQL queries.`
                         ]}
                     />
                     <WideCard 
                         image={gub_logo} 
                         text={[
-                            `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce suscipit luctus posuere. 
-                            Nulla nec turpis velit. Nunc eu scelerisque ante.`, <br/>, 
-                            `Donec ut tortor nec elit pulvinar suscipit. 
-                            Donec tincidunt nunc lacus, a pretium leo pellentesque vitae. Pellentesque habitant morbi 
-                            tristique senectus et netus et malesuada fames ac turpi`
+                            `As an experienced GUB Startup Mentor, I bring a wealth of knowledge and expertise to guide entrepreneurs through the intricacies of launching and scaling their ventures. With a deep understanding of the startup ecosystem, I offer valuable insights and strategic advice tailored to each founder's unique needs. `, <br/>, 
+                            `With a proven track record of successfully mentoring numerous startups, I am dedicated to fueling innovation and driving entrepreneurial success.`
                         ]}
                     />
                 </div>

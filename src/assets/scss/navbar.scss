@@ -166,8 +166,9 @@ header {
     .navbar {
         padding: 0 !important;
 
-        ul {
-            display: none;
+       
+        header .navbar ul {
+          display: none;
         }
     }
 }
