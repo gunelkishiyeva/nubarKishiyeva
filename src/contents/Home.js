@@ -46,7 +46,7 @@ class Home extends Component {
                                 startDelay={1600}
                                 cursorColor="black"
                                 text="I'm a Nubar Kishiyeva. 
-                                 I have 4 years experience at OOP JAVA SE Lecturer in Azerbaijan State Oil and Industry University. Take deep look to my portfolio."
+                                 I have more than 4 years experience as OOP JAVA SE Lecturer at Azerbaijan State Oil and Industry University. Take deep look to my portfolio."
                                 typeSpeed={40}
                                 hideCursorAfterText={true}
                             />

@@ -16,10 +16,10 @@ class About extends Component {
                     I have extensive experience working with various front-end technologies and frameworks. 
                 </p>
                 <p>
-                    I am fluent in classic technologies - HTML, CSS, JavaScript and CSS framework Bootstrap.
+                    I am fluent in classic technologies - HTML, CSS, JavaScript, JAVA SE, Github, teaching students with most modern technics.
                 </p>
                 <p>
-                    I am currently taking efforts to gain expertise on JavaScript framework React.js and Redux. 
+                    I am currently taking efforts to develop StratUP organizations.Gain expertise on Project Managment skills. 
                     What you are seeing now is my portfolio developed in React in an attempt to showcase my skills and work experience.
                 </p>
 
@@ -32,7 +32,7 @@ class About extends Component {
                 </div>
 
                 <p>
-                    In my leisure time I like listening to Classical music and play Harmonium (a musical instrument). 
+                    In my leisure time I like searching new web technologies. 
                     I enjoy searching and learning new technologoes. {String.fromCodePoint('0x1f60A')}.
                 </p>
             </div>
