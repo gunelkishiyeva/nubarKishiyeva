@@ -11,7 +11,7 @@ class About extends Component {
                     Hey, I'm Nubar!
                 </p>
                 <p>
-                    I'm a passionate UI/UX, Frontend Developer working at  
+                    I'm a passionate OOP principles, Java Lecturer working at  
                     <strong><a target='_blank' href='https://www.tobeprecise.com/'> Azerbaijan Oil and Industry University</a></strong>.
                     I have extensive experience working with various front-end technologies and frameworks. 
                 </p>
